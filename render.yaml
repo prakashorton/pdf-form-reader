@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: pdf-form-reader-backend
+    runtime: node
+    region: oregon
+    plan: free
+    rootDir: pdf-form-reader/server
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: PORT
+        value: 3001
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /
+
