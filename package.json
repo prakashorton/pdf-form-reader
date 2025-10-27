@@ -1,0 +1,6 @@
+{
+  "homepage": "https://prakashorton.github.io/sample-ai",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
