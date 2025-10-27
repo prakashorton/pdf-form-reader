@@ -2,6 +2,13 @@
 
 A modern web application for extracting and displaying form fields from PDF documents with interactive field highlighting.
 
+## 🚀 Live Demo
+
+- **Frontend**: [https://prakashorton.github.io/pdf-form-reader/](https://prakashorton.github.io/pdf-form-reader/)
+- **Backend**: Deploy with one click ↓
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/prakashorton/pdf-form-reader)
+
 ## Features
 
 - 📄 **PDF Upload** - Drag & drop or click to upload PDF files
